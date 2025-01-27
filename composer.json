@@ -1,0 +1,19 @@
+{
+    "name": "polar/wp-l10n",
+    "description": "A localization plugin for WordPress.",
+    "license": "MIT",
+    "type": "wordpress-plugin",
+    "homepage": "https://github.com/vguerrerobosch/wp-l10n",
+    "autoload": {
+        "psr-4": {
+            "Polar\\WpL10n\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Victor Guerrero",
+            "email": "victorg@hey.com"
+        }
+    ],
+    "require": {}
+}
